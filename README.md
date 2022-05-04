@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Meu+nome+é+patrick!;Sou+desenvolvedor+full+stack)](https://git.io/typing-svg)
+
 <!--
 **patricklongo1/patricklongo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
