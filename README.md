@@ -21,4 +21,5 @@
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
  <a href="https://vercel.com/solutions/nextjs" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="azure" width="40" height="40"/> </a>
  <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank"> <img src="https://storage.cloud.softline.com/public/images/market_setting/logotype/39422/SQL1.png" alt="azure" width="40" height="40"/> </a>
+ <a href="https://styled-components.com/" target="_blank"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="azure" width="40" height="40"/> </a>
     </p>
