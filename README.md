@@ -22,4 +22,5 @@
  <a href="https://vercel.com/solutions/nextjs" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="azure" width="40" height="40"/> </a>
  <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank"> <img src="https://storage.cloud.softline.com/public/images/market_setting/logotype/39422/SQL1.png" alt="azure" width="40" height="40"/> </a>
  <a href="https://styled-components.com/" target="_blank"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="azure" width="40" height="40"/> </a>
+ <a href="https://reactnative.dev/" target="_blank"> <img src="https://miro.medium.com/max/1024/1*xDi2csEAWxu95IEkaNdFUQ.png" alt="azure" width="40" height="40"/> </a>
     </p>
